@@ -1,0 +1,18 @@
+info:
+  title: Data Pipeline Library
+  description: Shared library for ETL pipeline utilities and data transformation helpers
+  x-cortex-tag: data-pipeline-lib
+  x-cortex-type: library
+  x-cortex-owners:
+    - type: group
+      name: data-team
+  x-cortex-tier: 2
+  x-cortex-slack:
+    channel: "#data-eng"
+  x-cortex-git:
+    github:
+      repo: mikemcnamara-C/data-pipeline-lib
+  x-cortex-language: python
+  x-cortex-custom-metadata:
+    domain: data
+    package: true
